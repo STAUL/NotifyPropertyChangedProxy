@@ -1,0 +1,2 @@
+# NotifyPropertyChangedProxy
+Proxy for NotifyPropertyChange with DynamicObject
